@@ -1,0 +1,22 @@
+{
+  "name": "@umi-block/demoBlock",
+  "version": "0.0.1",
+  "description": "区块测试",
+  "main": "src/index.js",
+  "authors": {
+    "name": "zhaojie.du",
+    "email": "17816040825@163.com"
+  },
+  "repository": "git@github.com:duchaojie/Umi-block.git/demoBlock",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0"
+  },
+  "license": "MIT"
+}
